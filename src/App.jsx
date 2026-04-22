@@ -80,6 +80,7 @@ function App() {
               </div>
               <div className="flex flex-wrap gap-2">
                 <span className="bg-white border border-gray-300 px-3 py-1 rounded text-sm text-black/80">JavaScript</span>
+                <span className="bg-white border border-gray-300 px-3 py-1 rounded text-sm text-black/80">TypeScript</span>
                 <span className="bg-white border border-gray-300 px-3 py-1 rounded text-sm text-black/80">Python</span>
                 <span className="bg-white border border-gray-300 px-3 py-1 rounded text-sm text-black/80">SQL</span>
               </div>

@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
-import { ChevronDown, Github, ExternalLink, Mail, Phone, MapPin, Download, Code, Database, Cloud, Wrench } from 'lucide-react';
+import { Github, Download, Code, Database, Cloud, Wrench } from 'lucide-react';
 
 function App() {
   const skillsRef = useRef(null);
